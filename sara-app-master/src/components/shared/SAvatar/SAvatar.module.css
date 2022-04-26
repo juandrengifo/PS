@@ -1,0 +1,90 @@
+.buttons {
+    bottom: 0px;
+    justify-content: flex-end !important;
+    margin-bottom: 139px;
+    position: absolute;
+    width: 100%;
+    z-index: 99;
+}
+
+.buttonIcon {
+    height: 35px;
+    width: 35px;
+}
+
+.container {
+    height: 470px;
+    overflow: hidden;
+    position: relative;
+    width: 400px;
+}
+
+.image {
+    border-radius: 10px;
+    height: 470px;
+    position: absolute;
+    width: 200px;
+}
+
+.innerButtons {
+    background-color: rgba(0, 0, 0, 0.8);
+    border-radius: 5px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    justify-content: space-between;
+    padding: 7px;
+    width: 36%;
+}
+
+.message {
+    background-color: rgba(250, 250, 250, 0.8);
+    border: 1px solid var(--black);
+    border-radius: 10px;
+    border-top-right-radius: 0px;
+    bottom: 0px;
+    color: var(--black);
+    font-size: large;
+    height: 140px;
+    margin-bottom: 0;
+    padding: 30px 20px 20px 20px;
+    position: absolute;
+    width: 100%;
+}
+
+.triangle {
+    background-color: rgba(250, 250, 250, 0.8);
+    border: 1px solid var(--black);
+    border: 1px solid var(--white);
+    bottom: 0;
+    clip-path: polygon(60% 0%, 5% 100%, 45% 100%);
+    height: 120px;
+    margin-bottom: 138px;
+    margin-left: 40px;
+    position: absolute;
+    width: 100px;
+}
+
+@media (max-width: 1123px) {
+    .buttons {
+        margin-bottom: 129px;
+    }
+
+    .container {
+        height: 430px;
+        width: 350px;
+    }
+
+    .image {
+        height: 430px;
+        width: 170px;
+    }
+
+    .message {
+        font-size: medium;
+        height: 130px;
+    }
+
+    .triangle {
+        margin-bottom: 128px;
+    }
+}

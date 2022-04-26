@@ -1,0 +1,1270 @@
+{
+    "cards": [
+        {
+            "path": "/animals/burro_comiendo.png",
+            "demand": "Yo tengo un burro comiendo. ¿Qué tienes tú?",
+            "tag": "Comer",
+            "answer": [
+                {
+                    "kind": "Pronombre",
+                    "word": "Yo"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "tengo"
+                },
+                {
+                    "kind": "Artículo",
+                    "word": "un"
+                },
+                {
+                    "kind": "Sustantivo",
+                    "word": "burro"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "comiendo"
+                }
+            ]
+        },
+        {
+            "path": "/animals/burro_saltando.png",
+            "demand": "Yo tengo un burro saltando. ¿Qué tienes tú?",
+            "tag": "Saltar",
+            "answer": [
+                {
+                    "kind": "Pronombre",
+                    "word": "Yo"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "tengo"
+                },
+                {
+                    "kind": "Artículo",
+                    "word": "un"
+                },
+                {
+                    "kind": "Sustantivo",
+                    "word": "burro"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "saltando"
+                }
+            ]
+        },
+        {
+            "path": "/animals/burro_tomando.png",
+            "demand": "Yo tengo un burro tomando. ¿Qué tienes tú?",
+            "tag": "Tomar",
+            "answer": [
+                {
+                    "kind": "Pronombre",
+                    "word": "Yo"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "tengo"
+                },
+                {
+                    "kind": "Artículo",
+                    "word": "un"
+                },
+                {
+                    "kind": "Sustantivo",
+                    "word": "burro"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "tomando"
+                }
+            ]
+        },
+        {
+            "path": "/animals/caballo_comiendo.png",
+            "demand": "Yo tengo un caballo comiendo. ¿Qué tienes tú?",
+            "tag": "Comer",
+            "answer": [
+                {
+                    "kind": "Pronombre",
+                    "word": "Yo"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "tengo"
+                },
+                {
+                    "kind": "Artículo",
+                    "word": "un"
+                },
+                {
+                    "kind": "Sustantivo",
+                    "word": "caballo"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "comiendo"
+                }
+            ]
+        },
+        {
+            "path": "/animals/caballo_saltando.png",
+            "demand": "Yo tengo un caballo saltando. ¿Qué tienes tú?",
+            "tag": "Saltar",
+            "answer": [
+                {
+                    "kind": "Pronombre",
+                    "word": "Yo"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "tengo"
+                },
+                {
+                    "kind": "Artículo",
+                    "word": "un"
+                },
+                {
+                    "kind": "Sustantivo",
+                    "word": "caballo"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "saltando"
+                }
+            ]
+        },
+        {
+            "path": "/animals/caballo_tomando.png",
+            "demand": "Yo tengo un caballo tomando. ¿Qué tienes tú?",
+            "tag": "Tomar",
+            "answer": [
+                {
+                    "kind": "Pronombre",
+                    "word": "Yo"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "tengo"
+                },
+                {
+                    "kind": "Artículo",
+                    "word": "un"
+                },
+                {
+                    "kind": "Sustantivo",
+                    "word": "caballo"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "tomando"
+                }
+            ]
+        },
+        {
+            "path": "/animals/cerdo_comiendo.png",
+            "demand": "Yo tengo un cerdo comiendo. ¿Qué tienes tú?",
+            "tag": "Comer",
+            "answer": [
+                {
+                    "kind": "Pronombre",
+                    "word": "Yo"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "tengo"
+                },
+                {
+                    "kind": "Artículo",
+                    "word": "un"
+                },
+                {
+                    "kind": "Sustantivo",
+                    "word": "cerdo"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "comiendo"
+                }
+            ]
+        },
+        {
+            "path": "/animals/cerdo_saltando.png",
+            "demand": "Yo tengo un cerdo saltando. ¿Qué tienes tú?",
+            "tag": "Saltar",
+            "answer": [
+                {
+                    "kind": "Pronombre",
+                    "word": "Yo"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "tengo"
+                },
+                {
+                    "kind": "Artículo",
+                    "word": "un"
+                },
+                {
+                    "kind": "Sustantivo",
+                    "word": "cerdo"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "saltando"
+                }
+            ]
+        },
+        {
+            "path": "/animals/cerdo_tomando.png",
+            "demand": "Yo tengo un cerdo tomando. ¿Qué tienes tú?",
+            "tag": "Tomar",
+            "answer": [
+                {
+                    "kind": "Pronombre",
+                    "word": "Yo"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "tengo"
+                },
+                {
+                    "kind": "Artículo",
+                    "word": "un"
+                },
+                {
+                    "kind": "Sustantivo",
+                    "word": "cerdo"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "tomando"
+                }
+            ]
+        },
+        {
+            "path": "/animals/conejo_comiendo.png",
+            "demand": "Yo tengo un conejo comiendo. ¿Qué tienes tú?",
+            "tag": "Comer",
+            "answer": [
+                {
+                    "kind": "Pronombre",
+                    "word": "Yo"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "tengo"
+                },
+                {
+                    "kind": "Artículo",
+                    "word": "un"
+                },
+                {
+                    "kind": "Sustantivo",
+                    "word": "conejo"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "comiendo"
+                }
+            ]
+        },
+        {
+            "path": "/animals/conejo_saltando.png",
+            "demand": "Yo tengo un conejo saltando. ¿Qué tienes tú?",
+            "tag": "Saltar",
+            "answer": [
+                {
+                    "kind": "Pronombre",
+                    "word": "Yo"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "tengo"
+                },
+                {
+                    "kind": "Artículo",
+                    "word": "un"
+                },
+                {
+                    "kind": "Sustantivo",
+                    "word": "conejo"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "saltando"
+                }
+            ]
+        },
+        {
+            "path": "/animals/conejo_tomando.png",
+            "demand": "Yo tengo un conejo tomando. ¿Qué tienes tú?",
+            "tag": "Tomar",
+            "answer": [
+                {
+                    "kind": "Pronombre",
+                    "word": "Yo"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "tengo"
+                },
+                {
+                    "kind": "Artículo",
+                    "word": "un"
+                },
+                {
+                    "kind": "Sustantivo",
+                    "word": "conejo"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "tomando"
+                }
+            ]
+        },
+        {
+            "path": "/animals/gallina_comiendo.png",
+            "demand": "Yo tengo una gallina comiendo. ¿Qué tienes tú?",
+            "tag": "Comer",
+            "answer": [
+                {
+                    "kind": "Pronombre",
+                    "word": "Yo"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "tengo"
+                },
+                {
+                    "kind": "Artículo",
+                    "word": "una"
+                },
+                {
+                    "kind": "Sustantivo",
+                    "word": "gallina"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "comiendo"
+                }
+            ]
+        },
+        {
+            "path": "/animals/gallina_saltando.png",
+            "demand": "Yo tengo una gallina saltando. ¿Qué tienes tú?",
+            "tag": "Saltar",
+            "answer": [
+                {
+                    "kind": "Pronombre",
+                    "word": "Yo"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "tengo"
+                },
+                {
+                    "kind": "Artículo",
+                    "word": "una"
+                },
+                {
+                    "kind": "Sustantivo",
+                    "word": "gallina"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "saltando"
+                }
+            ]
+        },
+        {
+            "path": "/animals/gallina_tomando.png",
+            "demand": "Yo tengo una gallina tomando. ¿Qué tienes tú?",
+            "tag": "Tomar",
+            "answer": [
+                {
+                    "kind": "Pronombre",
+                    "word": "Yo"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "tengo"
+                },
+                {
+                    "kind": "Artículo",
+                    "word": "una"
+                },
+                {
+                    "kind": "Sustantivo",
+                    "word": "gallina"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "tomando"
+                }
+            ]
+        },
+        {
+            "path": "/animals/gato_comiendo.png",
+            "demand": "Yo tengo un gato comiendo. ¿Qué tienes tú?",
+            "tag": "Comer",
+            "answer": [
+                {
+                    "kind": "Pronombre",
+                    "word": "Yo"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "tengo"
+                },
+                {
+                    "kind": "Artículo",
+                    "word": "un"
+                },
+                {
+                    "kind": "Sustantivo",
+                    "word": "gato"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "comiendo"
+                }
+            ]
+        },
+        {
+            "path": "/animals/gato_saltando.png",
+            "demand": "Yo tengo un gato saltando. ¿Qué tienes tú?",
+            "tag": "Saltar",
+            "answer": [
+                {
+                    "kind": "Pronombre",
+                    "word": "Yo"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "tengo"
+                },
+                {
+                    "kind": "Artículo",
+                    "word": "un"
+                },
+                {
+                    "kind": "Sustantivo",
+                    "word": "gato"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "saltando"
+                }
+            ]
+        },
+        {
+            "path": "/animals/gato_tomando.png",
+            "demand": "Yo tengo un gato tomando. ¿Qué tienes tú?",
+            "tag": "Tomar",
+            "answer": [
+                {
+                    "kind": "Pronombre",
+                    "word": "Yo"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "tengo"
+                },
+                {
+                    "kind": "Artículo",
+                    "word": "un"
+                },
+                {
+                    "kind": "Sustantivo",
+                    "word": "gato"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "tomando"
+                }
+            ]
+        },
+        {
+            "path": "/animals/mariposa_comiendo.png",
+            "demand": "Yo tengo una mariposa comiendo. ¿Qué tienes tú?",
+            "tag": "Comer",
+            "answer": [
+                {
+                    "kind": "Pronombre",
+                    "word": "Yo"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "tengo"
+                },
+                {
+                    "kind": "Artículo",
+                    "word": "una"
+                },
+                {
+                    "kind": "Sustantivo",
+                    "word": "mariposa"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "comiendo"
+                }
+            ]
+        },
+        {
+            "path": "/animals/mariposa_saltando.png",
+            "demand": "Yo tengo una mariposa saltando. ¿Qué tienes tú?",
+            "tag": "Saltar",
+            "answer": [
+                {
+                    "kind": "Pronombre",
+                    "word": "Yo"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "tengo"
+                },
+                {
+                    "kind": "Artículo",
+                    "word": "una"
+                },
+                {
+                    "kind": "Sustantivo",
+                    "word": "mariposa"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "saltando"
+                }
+            ]
+        },
+        {
+            "path": "/animals/mariposa_tomando.png",
+            "demand": "Yo tengo una mariposa tomando. ¿Qué tienes tú?",
+            "tag": "Tomar",
+            "answer": [
+                {
+                    "kind": "Pronombre",
+                    "word": "Yo"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "tengo"
+                },
+                {
+                    "kind": "Artículo",
+                    "word": "una"
+                },
+                {
+                    "kind": "Sustantivo",
+                    "word": "mariposa"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "tomando"
+                }
+            ]
+        },
+        {
+            "path": "/animals/oveja_comiendo.png",
+            "demand": "Yo tengo una oveja comiendo. ¿Qué tienes tú?",
+            "tag": "Comer",
+            "answer": [
+                {
+                    "kind": "Pronombre",
+                    "word": "Yo"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "tengo"
+                },
+                {
+                    "kind": "Artículo",
+                    "word": "una"
+                },
+                {
+                    "kind": "Sustantivo",
+                    "word": "oveja"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "comiendo"
+                }
+            ]
+        },
+        {
+            "path": "/animals/oveja_saltando.png",
+            "demand": "Yo tengo una oveja saltando. ¿Qué tienes tú?",
+            "tag": "Saltar",
+            "answer": [
+                {
+                    "kind": "Pronombre",
+                    "word": "Yo"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "tengo"
+                },
+                {
+                    "kind": "Artículo",
+                    "word": "una"
+                },
+                {
+                    "kind": "Sustantivo",
+                    "word": "oveja"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "saltando"
+                }
+            ]
+        },
+        {
+            "path": "/animals/oveja_tomando.png",
+            "demand": "Yo tengo una oveja tomando. ¿Qué tienes tú?",
+            "tag": "Tomar",
+            "answer": [
+                {
+                    "kind": "Pronombre",
+                    "word": "Yo"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "tengo"
+                },
+                {
+                    "kind": "Artículo",
+                    "word": "una"
+                },
+                {
+                    "kind": "Sustantivo",
+                    "word": "oveja"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "tomando"
+                }
+            ]
+        },
+        {
+            "path": "/animals/pajaro_comiendo.png",
+            "demand": "Yo tengo un pájaro comiendo. ¿Qué tienes tú?",
+            "tag": "Comer",
+            "answer": [
+                {
+                    "kind": "Pronombre",
+                    "word": "Yo"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "tengo"
+                },
+                {
+                    "kind": "Artículo",
+                    "word": "un"
+                },
+                {
+                    "kind": "Sustantivo",
+                    "word": "pájaro"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "comiendo"
+                }
+            ]
+        },
+        {
+            "path": "/animals/pajaro_saltando.png",
+            "demand": "Yo tengo un pájaro saltando. ¿Qué tienes tú?",
+            "tag": "Saltar",
+            "answer": [
+                {
+                    "kind": "Pronombre",
+                    "word": "Yo"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "tengo"
+                },
+                {
+                    "kind": "Artículo",
+                    "word": "un"
+                },
+                {
+                    "kind": "Sustantivo",
+                    "word": "pájaro"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "saltando"
+                }
+            ]
+        },
+        {
+            "path": "/animals/pajaro_tomando.png",
+            "demand": "Yo tengo un pájaro tomando. ¿Qué tienes tú?",
+            "tag": "Tomar",
+            "answer": [
+                {
+                    "kind": "Pronombre",
+                    "word": "Yo"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "tengo"
+                },
+                {
+                    "kind": "Artículo",
+                    "word": "un"
+                },
+                {
+                    "kind": "Sustantivo",
+                    "word": "pájaro"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "tomando"
+                }
+            ]
+        },
+        {
+            "path": "/animals/pato_comiendo.png",
+            "demand": "Yo tengo un pato comiendo. ¿Qué tienes tú?",
+            "tag": "Comer",
+            "answer": [
+                {
+                    "kind": "Pronombre",
+                    "word": "Yo"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "tengo"
+                },
+                {
+                    "kind": "Artículo",
+                    "word": "un"
+                },
+                {
+                    "kind": "Sustantivo",
+                    "word": "pato"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "comiendo"
+                }
+            ]
+        },
+        {
+            "path": "/animals/pato_tomando.png",
+            "demand": "Yo tengo un pato tomando. ¿Qué tienes tú?",
+            "tag": "Tomar",
+            "answer": [
+                {
+                    "kind": "Pronombre",
+                    "word": "Yo"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "tengo"
+                },
+                {
+                    "kind": "Artículo",
+                    "word": "un"
+                },
+                {
+                    "kind": "Sustantivo",
+                    "word": "pato"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "tomando"
+                }
+            ]
+        },
+        {
+            "path": "/animals/perro_comiendo.png",
+            "demand": "Yo tengo un perro comiendo. ¿Qué tienes tú?",
+            "tag": "Comer",
+            "answer": [
+                {
+                    "kind": "Pronombre",
+                    "word": "Yo"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "tengo"
+                },
+                {
+                    "kind": "Artículo",
+                    "word": "un"
+                },
+                {
+                    "kind": "Sustantivo",
+                    "word": "perro"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "comiendo"
+                }
+            ]
+        },
+        {
+            "path": "/animals/perro_saltando.png",
+            "demand": "Yo tengo un perro saltando. ¿Qué tienes tú?",
+            "tag": "Saltar",
+            "answer": [
+                {
+                    "kind": "Pronombre",
+                    "word": "Yo"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "tengo"
+                },
+                {
+                    "kind": "Artículo",
+                    "word": "un"
+                },
+                {
+                    "kind": "Sustantivo",
+                    "word": "perro"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "saltando"
+                }
+            ]
+        },
+        {
+            "path": "/animals/perro_tomando.png",
+            "demand": "Yo tengo un perro tomando. ¿Qué tienes tú?",
+            "tag": "Tomar",
+            "answer": [
+                {
+                    "kind": "Pronombre",
+                    "word": "Yo"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "tengo"
+                },
+                {
+                    "kind": "Artículo",
+                    "word": "un"
+                },
+                {
+                    "kind": "Sustantivo",
+                    "word": "perro"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "tomando"
+                }
+            ]
+        },
+        {
+            "path": "/animals/pollo_comiendo.png",
+            "demand": "Yo tengo un pollo comiendo. ¿Qué tienes tú?",
+            "tag": "Comer",
+            "answer": [
+                {
+                    "kind": "Pronombre",
+                    "word": "Yo"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "tengo"
+                },
+                {
+                    "kind": "Artículo",
+                    "word": "un"
+                },
+                {
+                    "kind": "Sustantivo",
+                    "word": "pollo"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "comiendo"
+                }
+            ]
+        },
+        {
+            "path": "/animals/pollo_saltando.png",
+            "demand": "Yo tengo un pollo saltando. ¿Qué tienes tú?",
+            "tag": "Saltar",
+            "answer": [
+                {
+                    "kind": "Pronombre",
+                    "word": "Yo"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "tengo"
+                },
+                {
+                    "kind": "Artículo",
+                    "word": "un"
+                },
+                {
+                    "kind": "Sustantivo",
+                    "word": "pollo"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "saltando"
+                }
+            ]
+        },
+        {
+            "path": "/animals/pollo_tomando.png",
+            "demand": "Yo tengo un pollo tomando. ¿Qué tienes tú?",
+            "tag": "Tomar",
+            "answer": [
+                {
+                    "kind": "Pronombre",
+                    "word": "Yo"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "tengo"
+                },
+                {
+                    "kind": "Artículo",
+                    "word": "un"
+                },
+                {
+                    "kind": "Sustantivo",
+                    "word": "pollo"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "tomando"
+                }
+            ]
+        },
+        {
+            "path": "/animals/raton_comiendo.png",
+            "demand": "Yo tengo un ratón comiendo. ¿Qué tienes tú?",
+            "tag": "Comer",
+            "answer": [
+                {
+                    "kind": "Pronombre",
+                    "word": "Yo"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "tengo"
+                },
+                {
+                    "kind": "Artículo",
+                    "word": "un"
+                },
+                {
+                    "kind": "Sustantivo",
+                    "word": "ratón"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "comiendo"
+                }
+            ]
+        },
+        {
+            "path": "/animals/raton_tomando.png",
+            "demand": "Yo tengo un ratón tomando. ¿Qué tienes tú?",
+            "tag": "Tomar",
+            "answer": [
+                {
+                    "kind": "Pronombre",
+                    "word": "Yo"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "tengo"
+                },
+                {
+                    "kind": "Artículo",
+                    "word": "un"
+                },
+                {
+                    "kind": "Sustantivo",
+                    "word": "ratón"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "tomando"
+                }
+            ]
+        },
+        {
+            "path": "/animals/toro_comiendo.png",
+            "demand": "Yo tengo un toro comiendo. ¿Qué tienes tú?",
+            "tag": "Comer",
+            "answer": [
+                {
+                    "kind": "Pronombre",
+                    "word": "Yo"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "tengo"
+                },
+                {
+                    "kind": "Artículo",
+                    "word": "un"
+                },
+                {
+                    "kind": "Sustantivo",
+                    "word": "toro"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "comiendo"
+                }
+            ]
+        },
+        {
+            "path": "/animals/toro_saltando.png",
+            "demand": "Yo tengo un toro saltando. ¿Qué tienes tú?",
+            "tag": "Saltar",
+            "answer": [
+                {
+                    "kind": "Pronombre",
+                    "word": "Yo"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "tengo"
+                },
+                {
+                    "kind": "Artículo",
+                    "word": "un"
+                },
+                {
+                    "kind": "Sustantivo",
+                    "word": "toro"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "saltando"
+                }
+            ]
+        },
+        {
+            "path": "/animals/toro_tomando.png",
+            "demand": "Yo tengo un toro tomando. ¿Qué tienes tú?",
+            "tag": "Tomar",
+            "answer": [
+                {
+                    "kind": "Pronombre",
+                    "word": "Yo"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "tengo"
+                },
+                {
+                    "kind": "Artículo",
+                    "word": "un"
+                },
+                {
+                    "kind": "Sustantivo",
+                    "word": "toro"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "tomando"
+                }
+            ]
+        },
+        {
+            "path": "/animals/tortuga_comiendo.png",
+            "demand": "Yo tengo una tortuga comiendo. ¿Qué tienes tú?",
+            "tag": "Comer",
+            "answer": [
+                {
+                    "kind": "Pronombre",
+                    "word": "Yo"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "tengo"
+                },
+                {
+                    "kind": "Artículo",
+                    "word": "una"
+                },
+                {
+                    "kind": "Sustantivo",
+                    "word": "tortuga"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "comiendo"
+                }
+            ]
+        },
+        {
+            "path": "/animals/tortuga_saltando.png",
+            "demand": "Yo tengo una tortuga saltando. ¿Qué tienes tú?",
+            "tag": "Saltar",
+            "answer": [
+                {
+                    "kind": "Pronombre",
+                    "word": "Yo"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "tengo"
+                },
+                {
+                    "kind": "Artículo",
+                    "word": "una"
+                },
+                {
+                    "kind": "Sustantivo",
+                    "word": "tortuga"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "saltando"
+                }
+            ]
+        },
+        {
+            "path": "/animals/tortuga_tomando.png",
+            "demand": "Yo tengo una tortuga tomando. ¿Qué tienes tú?",
+            "tag": "Tomar",
+            "answer": [
+                {
+                    "kind": "Pronombre",
+                    "word": "Yo"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "tengo"
+                },
+                {
+                    "kind": "Artículo",
+                    "word": "una"
+                },
+                {
+                    "kind": "Sustantivo",
+                    "word": "tortuga"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "tomando"
+                }
+            ]
+        },
+        {
+            "path": "/animals/vaca_comiendo.png",
+            "demand": "Yo tengo una vaca comiendo. ¿Qué tienes tú?",
+            "tag": "Comer",
+            "answer": [
+                {
+                    "kind": "Pronombre",
+                    "word": "Yo"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "tengo"
+                },
+                {
+                    "kind": "Artículo",
+                    "word": "una"
+                },
+                {
+                    "kind": "Sustantivo",
+                    "word": "vaca"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "comiendo"
+                }
+            ]
+        },
+        {
+            "path": "/animals/vaca_saltando.png",
+            "demand": "Yo tengo una vaca saltando. ¿Qué tienes tú?",
+            "tag": "Saltar",
+            "answer": [
+                {
+                    "kind": "Pronombre",
+                    "word": "Yo"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "tengo"
+                },
+                {
+                    "kind": "Artículo",
+                    "word": "una"
+                },
+                {
+                    "kind": "Sustantivo",
+                    "word": "vaca"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "saltando"
+                }
+            ]
+        },
+        {
+            "path": "/animals/vaca_tomando.png",
+            "demand": "Yo tengo una vaca tomando. ¿Qué tienes tú?",
+            "tag": "Tomar",
+            "answer": [
+                {
+                    "kind": "Pronombre",
+                    "word": "Yo"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "tengo"
+                },
+                {
+                    "kind": "Artículo",
+                    "word": "una"
+                },
+                {
+                    "kind": "Sustantivo",
+                    "word": "vaca"
+                },
+                {
+                    "kind": "Verbo",
+                    "word": "tomando"
+                }
+            ]
+        }
+    ],
+    "user": {
+        "id": "1144034673",
+        "active": true,
+        "birthday_date": "1990-05-04T00:00:00.000Z",
+        "color": "#A569BD",
+        "email": "martinsg.9054@gmail.com",
+        "gender": "M",
+        "is_admin": false,
+        "last_name": "Sierra",
+        "name": "Martín",
+        "profile_img": null,
+        "score": 0,
+        "thumbnail_alias": "MS",
+        "username": "mvsierra",
+        "Role": {
+            "id": 1,
+            "name": "paciente"
+        },
+        "Avatar_Variation": null
+    },
+    "variability": {
+        "cardFactoryStrategy": "DominoCardFactoryStrategy",
+        "sceneTemplate": "GameSceneDomino"
+    }
+}

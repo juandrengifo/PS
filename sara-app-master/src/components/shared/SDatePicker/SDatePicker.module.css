@@ -1,0 +1,26 @@
+.completeInput {
+    border: 1px solid var(--lightgray) !important;
+    border-radius: 3px;
+    color: var(--gray);
+    cursor: pointer;
+    height: 38px !important;
+    padding: 0px 13px;
+    width: 100% !important;
+}
+
+.input {
+    border: none;
+    cursor: pointer;
+    color: var(--gray);
+    font-size: 1.2em;
+    font-weight: 600;
+    text-align: right;
+    text-decoration: underline;
+    max-width: 180px;
+}
+
+@media (max-width: 767px) {
+    .input {
+        font-size: large;
+    }
+}

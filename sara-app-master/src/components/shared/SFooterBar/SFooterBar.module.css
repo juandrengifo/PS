@@ -1,0 +1,35 @@
+.container {
+    align-items: flex-start;
+    background-color: var(--main-yellow);
+    justify-content: center;
+    min-height: 300px;
+    width: 100%;
+}
+
+.copyright {
+    font-size: medium;
+    font-weight: 600;
+}
+
+.innerContainer {
+    padding: 40px 70px;
+    width: 100%;
+}
+
+.logo {
+    color: var(--black);
+    font-size: x-large;
+    font-weight: bold;
+}
+
+@media (max-width: 767px) {
+    .innerContainer {
+        padding: 40px 11px;
+    }
+}
+
+@media (min-width: 1370px) {
+    .innerContainer {
+        width: 1350px;
+    }
+}

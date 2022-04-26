@@ -1,0 +1,65 @@
+.border {
+    border: 1px solid var(--lightgray);
+    box-shadow: 3px 3px 10px -3px var(--lightgray);
+}
+
+.container {
+    background-color: var(--white);    
+    border-radius: 5px;
+    justify-content: flex-start;
+    min-height: 80px;
+    overflow: hidden;
+    position: fixed;
+    z-index: 1099 !important;
+}
+
+.containerDesktop {
+    animation: slide 6s ease 1;
+    right: -1px;
+    top: 70px;
+    width: 360px;
+}
+
+.containerMobile {
+    animation: slide-mobile 6s ease 1;
+    border-radius: 0;
+    left: 0;
+    top: 0px;
+    width: 100%;
+}
+
+.error {
+    background-color: var(--main-red);
+}
+
+.iconContainer {
+    color: var(--white);
+    justify-content: center;
+    min-height: 80px;
+    min-width: 80px;
+}
+
+.message {
+    font-weight: 600;
+    padding: 10px 15px;
+}
+
+.success {
+    background-color: var(--aquamarine);
+}
+
+@keyframes slide {
+    0% { right: -368px; }
+    25% { right: -1px; }
+    50% { right: -1px; }
+    75% { right: -1px; }
+    100% { right: var(--finalSlide); }
+}
+
+@keyframes slide-mobile {
+    0% { top: -200px }
+    25% { top: 0px}
+    50% { top: 0px }
+    75% { top: 0px }
+    100% { top: var(--finalSlide) }
+}

@@ -1,0 +1,36 @@
+{
+    "name": "sara_server",
+    "version": "0.1.0",
+    "private": true,
+    "author": "Martín Vladimir Alonso Sierra Galvis - Grupo Destino",
+    "dependencies": {
+        "@babel/polyfill": "^7.10.4",
+        "axios": "^0.21.1",
+        "bcryptjs": "^2.4.3",
+        "cors": "^2.8.5",
+        "custom-env": "^2.0.1",
+        "express": "^4.17.1",
+        "express-fileupload": "^1.2.0",
+        "form-data": "^3.0.0",
+        "fs-extra": "^9.0.1",
+        "jimp": "^0.16.1",
+        "jsonwebtoken": "^8.5.1",
+        "nodemailer": "^6.5.0",
+        "pg": "^8.2.2",
+        "pg-hstore": "^2.3.3",
+        "sequelize": "^5.22.3",
+        "socket.io": "^2.4.1",
+        "zip-local": "^0.3.4"
+    },
+    "devDependencies": {
+        "@babel/core": "^7.11.1",
+        "@babel/node": "^7.10.5",
+        "@babel/preset-env": "^7.11.0",
+        "nodemon": "^2.0.4"
+    },
+    "scripts": {
+        "dev": "nodemon --exec babel-node src/server.js",
+        "start": "babel-node src/server.js",
+        "start-qa": "NODE_ENV=qa babel-node src/server.js"
+    }
+}

@@ -1,0 +1,15 @@
+.container {
+  padding: 25px;
+}
+
+.infoText {
+  color: var(--gray);
+  font-size: large;
+  margin-bottom: 30px;
+}
+
+.label {
+  font-size: large;
+  font-weight: bold;
+  margin: 7px 0px;
+}

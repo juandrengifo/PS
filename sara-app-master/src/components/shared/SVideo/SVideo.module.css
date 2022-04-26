@@ -1,0 +1,39 @@
+.absolute {
+    bottom: 0;
+    left: calc(50% - 350px);
+    margin-bottom: -270px;
+    position: absolute;
+    z-index: 100;
+}
+
+.container {
+    background-color: var(--black);
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px -3px var(--black);
+    height: 400px;
+    overflow: hidden;
+    width: var(--width);
+}
+
+.video {
+    height: 400px;
+    width: 100% !important;
+}
+
+@media (max-width: 767px) {
+    .absolute {
+        left: 0;
+        margin-bottom: -270px;
+    }
+
+    .container {
+        box-shadow: none;
+        border-radius: 0;
+        height: 350px;
+        width: 100%;
+    }
+
+    .video {
+        height: 350px;
+    }
+}

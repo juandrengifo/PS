@@ -1,0 +1,9 @@
+.error {
+    color: var(--main-darkred);
+}
+
+.text {
+    font-size: small;
+    font-weight: 600;
+    margin-top: 10px;
+}

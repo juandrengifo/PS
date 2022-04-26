@@ -1,0 +1,13 @@
+{
+  "name": "sara_games",
+  "version": "1.0.0",
+  "author": "Martín Vladimir Alonso Sierra Galvis",
+  "dependencies": {
+    "light-server": "^2.8.0"
+  },
+  "scripts": {
+    "domino": "light-server -s ./sara_domino -p 5002",
+    "ordenando": "light-server -s ./sara_ordenando -p 5002",
+    "secuencia": "light-server -s ./sara_secuencia -p 5002"
+  }
+}

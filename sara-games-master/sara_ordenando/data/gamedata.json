@@ -1,0 +1,2384 @@
+{
+    "cards": [
+        {
+            "id": 1,
+            "action": "Doblar",
+            "cloth_animation": "/clothes/camisa_amarilla_doblar.gif",
+            "final_path": null,
+            "next_action": "Guardar",
+            "path": "/clothes/camisa_amarilla.png",
+            "tag": "Camisa Amarilla Limpia",
+            "demands": [
+                {
+                    "id": 1,
+                    "demand": "Dobla la camisa limpia y amarilla.",
+                    "gender": null,
+                    "is_initial": true,
+                    "question": "¿Qué hiciste?",
+                    "answer": [
+                        {
+                            "kind": "Pronombre",
+                            "word": "Yo"
+                        },
+                        {
+                            "kind": "Verbo",
+                            "word": "doblé"
+                        },
+                        {
+                            "kind": "Artículo",
+                            "word": "la"
+                        },
+                        {
+                            "kind": "Sustantivo",
+                            "word": "camisa"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "limpia"
+                        },
+                        {
+                            "kind": "Conjunción",
+                            "word": "y"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "amarilla"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "demand": "Haz que Felipe doble la camisa limpia y amarilla.",
+                    "gender": "M",
+                    "is_initial": false,
+                    "question": "¿Qué hizo Felipe?",
+                    "answer": [
+                        {
+                            "kind": "Pronombre",
+                            "word": "Él"
+                        },
+                        {
+                            "kind": "Verbo",
+                            "word": "dobló"
+                        },
+                        {
+                            "kind": "Artículo",
+                            "word": "la"
+                        },
+                        {
+                            "kind": "Sustantivo",
+                            "word": "camisa"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "limpia"
+                        },
+                        {
+                            "kind": "Conjunción",
+                            "word": "y"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "amarilla"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "demand": "Haz que Sofía doble la camisa limpia y amarilla.",
+                    "gender": "F",
+                    "is_initial": false,
+                    "question": "¿Qué hizo Sofía?",
+                    "answer": [
+                        {
+                            "kind": "Pronombre",
+                            "word": "Ella"
+                        },
+                        {
+                            "kind": "Verbo",
+                            "word": "dobló"
+                        },
+                        {
+                            "kind": "Artículo",
+                            "word": "la"
+                        },
+                        {
+                            "kind": "Sustantivo",
+                            "word": "camisa"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "limpia"
+                        },
+                        {
+                            "kind": "Conjunción",
+                            "word": "y"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "amariila"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "action": "Doblar",
+            "cloth_animation": "/clothes/camisa_azul_doblar.gif",
+            "final_path": null,
+            "next_action": "Guardar",
+            "path": "/clothes/camisa_azul.png",
+            "tag": "Camisa Azul Limpia",
+            "demands": [
+                {
+                    "id": 4,
+                    "demand": "Dobla la camisa limpia y azul.",
+                    "gender": null,
+                    "is_initial": true,
+                    "question": "¿Qué hiciste?",
+                    "answer": [
+                        {
+                            "kind": "Pronombre",
+                            "word": "Yo"
+                        },
+                        {
+                            "kind": "Verbo",
+                            "word": "doblé"
+                        },
+                        {
+                            "kind": "Artículo",
+                            "word": "la"
+                        },
+                        {
+                            "kind": "Sustantivo",
+                            "word": "camisa"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "limpia"
+                        },
+                        {
+                            "kind": "Conjunción",
+                            "word": "y"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "azul"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "demand": "Haz que Felipe doble la camisa limpia y azul.",
+                    "gender": "M",
+                    "is_initial": false,
+                    "question": "¿Qué hizo Felipe?",
+                    "answer": [
+                        {
+                            "kind": "Pronombre",
+                            "word": "Él"
+                        },
+                        {
+                            "kind": "Verbo",
+                            "word": "dobló"
+                        },
+                        {
+                            "kind": "Artículo",
+                            "word": "la"
+                        },
+                        {
+                            "kind": "Sustantivo",
+                            "word": "camisa"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "limpia"
+                        },
+                        {
+                            "kind": "Conjunción",
+                            "word": "y"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "azul"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "demand": "Haz que Sofía doble la camisa limpia y azul.",
+                    "gender": "F",
+                    "is_initial": false,
+                    "question": "¿Qué hizo Sofía?",
+                    "answer": [
+                        {
+                            "kind": "Pronombre",
+                            "word": "Ella"
+                        },
+                        {
+                            "kind": "Verbo",
+                            "word": "dobló"
+                        },
+                        {
+                            "kind": "Artículo",
+                            "word": "la"
+                        },
+                        {
+                            "kind": "Sustantivo",
+                            "word": "camisa"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "limpia"
+                        },
+                        {
+                            "kind": "Conjunción",
+                            "word": "y"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "azul"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "action": "Doblar",
+            "cloth_animation": "/clothes/camisa_rayas_doblar.gif",
+            "final_path": null,
+            "next_action": "Guardar",
+            "path": "/clothes/camisa_rayas.png",
+            "tag": "Camisa Rayas Limpia",
+            "demands": [
+                {
+                    "id": 7,
+                    "demand": "Dobla la camisa limpia y de rayas.",
+                    "gender": null,
+                    "is_initial": true,
+                    "question": "¿Qué hiciste?",
+                    "answer": [
+                        {
+                            "kind": "Pronombre",
+                            "word": "Yo"
+                        },
+                        {
+                            "kind": "Verbo",
+                            "word": "doblé"
+                        },
+                        {
+                            "kind": "Artículo",
+                            "word": "la"
+                        },
+                        {
+                            "kind": "Sustantivo",
+                            "word": "camisa"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "limpia"
+                        },
+                        {
+                            "kind": "Conjunción",
+                            "word": "y"
+                        },
+                        {
+                            "kind": "Preposición",
+                            "word": "de"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "rayas"
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "demand": "Haz que Felipe doble la camisa limpia y de rayas.",
+                    "gender": "M",
+                    "is_initial": false,
+                    "question": "¿Qué hizo Felipe?",
+                    "answer": [
+                        {
+                            "kind": "Pronombre",
+                            "word": "Él"
+                        },
+                        {
+                            "kind": "Verbo",
+                            "word": "dobló"
+                        },
+                        {
+                            "kind": "Artículo",
+                            "word": "la"
+                        },
+                        {
+                            "kind": "Sustantivo",
+                            "word": "camisa"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "limpia"
+                        },
+                        {
+                            "kind": "Conjunción",
+                            "word": "y"
+                        },
+                        {
+                            "kind": "Preposición",
+                            "word": "de"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "rayas"
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "demand": "Haz que Sofía doble la camisa limpia y de rayas.",
+                    "gender": "F",
+                    "is_initial": false,
+                    "question": "¿Qué hizo Sofía?",
+                    "answer": [
+                        {
+                            "kind": "Pronombre",
+                            "word": "Ella"
+                        },
+                        {
+                            "kind": "Verbo",
+                            "word": "dobló"
+                        },
+                        {
+                            "kind": "Artículo",
+                            "word": "la"
+                        },
+                        {
+                            "kind": "Sustantivo",
+                            "word": "camisa"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "limpia"
+                        },
+                        {
+                            "kind": "Conjunción",
+                            "word": "y"
+                        },
+                        {
+                            "kind": "Preposición",
+                            "word": "de"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "rayas"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "action": "Doblar",
+            "cloth_animation": "/clothes/camisa_roja_doblar.gif",
+            "final_path": null,
+            "next_action": "Guardar",
+            "path": "/clothes/camisa_roja.png",
+            "tag": "Camisa Roja Limpia",
+            "demands": [
+                {
+                    "id": 10,
+                    "demand": "Dobla la camisa limpia y roja.",
+                    "gender": null,
+                    "is_initial": true,
+                    "question": "¿Qué hiciste?",
+                    "answer": [
+                        {
+                            "kind": "Pronombre",
+                            "word": "Yo"
+                        },
+                        {
+                            "kind": "Verbo",
+                            "word": "doblé"
+                        },
+                        {
+                            "kind": "Artículo",
+                            "word": "la"
+                        },
+                        {
+                            "kind": "Sustantivo",
+                            "word": "camisa"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "limpia"
+                        },
+                        {
+                            "kind": "Conjunción",
+                            "word": "y"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "roja"
+                        }
+                    ]
+                },
+                {
+                    "id": 11,
+                    "demand": "Haz que Felipe doble la camisa limpia y roja.",
+                    "gender": "M",
+                    "is_initial": false,
+                    "question": "¿Qué hizo Felipe?",
+                    "answer": [
+                        {
+                            "kind": "Pronombre",
+                            "word": "Él"
+                        },
+                        {
+                            "kind": "Verbo",
+                            "word": "dobló"
+                        },
+                        {
+                            "kind": "Artículo",
+                            "word": "la"
+                        },
+                        {
+                            "kind": "Sustantivo",
+                            "word": "camisa"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "limpia"
+                        },
+                        {
+                            "kind": "Conjunción",
+                            "word": "y"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "roja"
+                        }
+                    ]
+                },
+                {
+                    "id": 12,
+                    "demand": "Haz que Sofía doble la camisa limpia y roja.",
+                    "gender": "F",
+                    "is_initial": false,
+                    "question": "¿Qué hizo Sofía?",
+                    "answer": [
+                        {
+                            "kind": "Pronombre",
+                            "word": "Ella"
+                        },
+                        {
+                            "kind": "Verbo",
+                            "word": "dobló"
+                        },
+                        {
+                            "kind": "Artículo",
+                            "word": "la"
+                        },
+                        {
+                            "kind": "Sustantivo",
+                            "word": "camisa"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "limpia"
+                        },
+                        {
+                            "kind": "Conjunción",
+                            "word": "y"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "roja"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "action": "Doblar",
+            "cloth_animation": "/clothes/camisa_verde_doblar.gif",
+            "final_path": null,
+            "next_action": "Guardar",
+            "path": "/clothes/camisa_verde.png",
+            "tag": "Camisa Verde Limpia",
+            "demands": [
+                {
+                    "id": 13,
+                    "demand": "Dobla la camisa limpia y verde.",
+                    "gender": null,
+                    "is_initial": true,
+                    "question": "¿Qué hiciste?",
+                    "answer": [
+                        {
+                            "kind": "Pronombre",
+                            "word": "Yo"
+                        },
+                        {
+                            "kind": "Verbo",
+                            "word": "doblé"
+                        },
+                        {
+                            "kind": "Artículo",
+                            "word": "la"
+                        },
+                        {
+                            "kind": "Sustantivo",
+                            "word": "camisa"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "limpia"
+                        },
+                        {
+                            "kind": "Conjunción",
+                            "word": "y"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "verde"
+                        }
+                    ]
+                },
+                {
+                    "id": 14,
+                    "demand": "Haz que Felipe doble la camisa limpia y verde.",
+                    "gender": "M",
+                    "is_initial": false,
+                    "question": "¿Qué hizo Felipe?",
+                    "answer": [
+                        {
+                            "kind": "Pronombre",
+                            "word": "Él"
+                        },
+                        {
+                            "kind": "Verbo",
+                            "word": "dobló"
+                        },
+                        {
+                            "kind": "Artículo",
+                            "word": "la"
+                        },
+                        {
+                            "kind": "Sustantivo",
+                            "word": "camisa"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "limpia"
+                        },
+                        {
+                            "kind": "Conjunción",
+                            "word": "y"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "verde"
+                        }
+                    ]
+                },
+                {
+                    "id": 15,
+                    "demand": "Haz que Sofía doble la camisa limpia y verde.",
+                    "gender": "F",
+                    "is_initial": false,
+                    "question": "¿Qué hizo Sofía?",
+                    "answer": [
+                        {
+                            "kind": "Pronombre",
+                            "word": "Ella"
+                        },
+                        {
+                            "kind": "Verbo",
+                            "word": "dobló"
+                        },
+                        {
+                            "kind": "Artículo",
+                            "word": "la"
+                        },
+                        {
+                            "kind": "Sustantivo",
+                            "word": "camisa"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "limpia"
+                        },
+                        {
+                            "kind": "Conjunción",
+                            "word": "y"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "verde"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "action": "Doblar",
+            "cloth_animation": "/clothes/pantalon_azul_doblar.gif",
+            "final_path": null,
+            "next_action": "Guardar",
+            "path": "/clothes/pantalon_azul.png",
+            "tag": "Pantalón Azul Limpio",
+            "demands": [
+                {
+                    "id": 16,
+                    "demand": "Dobla el pantalón limpio y azul.",
+                    "gender": null,
+                    "is_initial": true,
+                    "question": "¿Qué hiciste?",
+                    "answer": [
+                        {
+                            "kind": "Pronombre",
+                            "word": "Yo"
+                        },
+                        {
+                            "kind": "Verbo",
+                            "word": "doblé"
+                        },
+                        {
+                            "kind": "Artículo",
+                            "word": "el"
+                        },
+                        {
+                            "kind": "Sustantivo",
+                            "word": "pantalón"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "limpio"
+                        },
+                        {
+                            "kind": "Conjunción",
+                            "word": "y"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "azul"
+                        }
+                    ]
+                },
+                {
+                    "id": 17,
+                    "demand": "Haz que Felipe doble el pantalón limpio y azul.",
+                    "gender": "M",
+                    "is_initial": false,
+                    "question": "¿Qué hizo Felipe?",
+                    "answer": [
+                        {
+                            "kind": "Pronombre",
+                            "word": "Él"
+                        },
+                        {
+                            "kind": "Verbo",
+                            "word": "dobló"
+                        },
+                        {
+                            "kind": "Artículo",
+                            "word": "el"
+                        },
+                        {
+                            "kind": "Sustantivo",
+                            "word": "pantalón"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "limpio"
+                        },
+                        {
+                            "kind": "Conjunción",
+                            "word": "y"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "azul"
+                        }
+                    ]
+                },
+                {
+                    "id": 18,
+                    "demand": "Haz que Sofía doble el pantalón limpio y azul.",
+                    "gender": "F",
+                    "is_initial": false,
+                    "question": "¿Qué hizo Sofía?",
+                    "answer": [
+                        {
+                            "kind": "Pronombre",
+                            "word": "Ella"
+                        },
+                        {
+                            "kind": "Verbo",
+                            "word": "dobló"
+                        },
+                        {
+                            "kind": "Artículo",
+                            "word": "el"
+                        },
+                        {
+                            "kind": "Sustantivo",
+                            "word": "pantalón"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "limpio"
+                        },
+                        {
+                            "kind": "Conjunción",
+                            "word": "y"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "azul"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "action": "Doblar",
+            "cloth_animation": "/clothes/pantalon_naranja_doblar.gif",
+            "final_path": null,
+            "next_action": "Guardar",
+            "path": "/clothes/pantalon_naranja.png",
+            "tag": "Pantalón Naranja Limpio",
+            "demands": [
+                {
+                    "id": 19,
+                    "demand": "Dobla el pantalón limpio y naranja.",
+                    "gender": null,
+                    "is_initial": true,
+                    "question": "¿Qué hiciste?",
+                    "answer": [
+                        {
+                            "kind": "Pronombre",
+                            "word": "Yo"
+                        },
+                        {
+                            "kind": "Verbo",
+                            "word": "doblé"
+                        },
+                        {
+                            "kind": "Artículo",
+                            "word": "el"
+                        },
+                        {
+                            "kind": "Sustantivo",
+                            "word": "pantalón"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "limpio"
+                        },
+                        {
+                            "kind": "Conjunción",
+                            "word": "y"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "naranja"
+                        }
+                    ]
+                },
+                {
+                    "id": 20,
+                    "demand": "Haz que Felipe doble el pantalón limpio y naranja.",
+                    "gender": "M",
+                    "is_initial": false,
+                    "question": "¿Qué hizo Felipe?",
+                    "answer": [
+                        {
+                            "kind": "Pronombre",
+                            "word": "Él"
+                        },
+                        {
+                            "kind": "Verbo",
+                            "word": "dobló"
+                        },
+                        {
+                            "kind": "Artículo",
+                            "word": "el"
+                        },
+                        {
+                            "kind": "Sustantivo",
+                            "word": "pantalón"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "limpio"
+                        },
+                        {
+                            "kind": "Conjunción",
+                            "word": "y"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "naranja"
+                        }
+                    ]
+                },
+                {
+                    "id": 21,
+                    "demand": "Haz que Sofía doble el pantalón limpio y naranja.",
+                    "gender": "F",
+                    "is_initial": false,
+                    "question": "¿Qué hizo Sofía?",
+                    "answer": [
+                        {
+                            "kind": "Pronombre",
+                            "word": "Ella"
+                        },
+                        {
+                            "kind": "Verbo",
+                            "word": "dobló"
+                        },
+                        {
+                            "kind": "Artículo",
+                            "word": "el"
+                        },
+                        {
+                            "kind": "Sustantivo",
+                            "word": "pantalón"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "limpio"
+                        },
+                        {
+                            "kind": "Conjunción",
+                            "word": "y"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "naranja"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "action": "Doblar",
+            "cloth_animation": "/clothes/pantalon_verde_doblar.gif",
+            "final_path": null,
+            "next_action": "Guardar",
+            "path": "/clothes/pantalon_verde.png",
+            "tag": "Pantalón Verde Limpio",
+            "demands": [
+                {
+                    "id": 22,
+                    "demand": "Dobla el pantalón limpio y verde.",
+                    "gender": null,
+                    "is_initial": true,
+                    "question": "¿Qué hiciste?",
+                    "answer": [
+                        {
+                            "kind": "Pronombre",
+                            "word": "Yo"
+                        },
+                        {
+                            "kind": "Verbo",
+                            "word": "doblé"
+                        },
+                        {
+                            "kind": "Artículo",
+                            "word": "el"
+                        },
+                        {
+                            "kind": "Sustantivo",
+                            "word": "pantalón"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "limpio"
+                        },
+                        {
+                            "kind": "Conjunción",
+                            "word": "y"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "verde"
+                        }
+                    ]
+                },
+                {
+                    "id": 23,
+                    "demand": "Haz que Felipe doble el pantalón limpio y verde.",
+                    "gender": "M",
+                    "is_initial": false,
+                    "question": "¿Qué hizo Felipe?",
+                    "answer": [
+                        {
+                            "kind": "Pronombre",
+                            "word": "Él"
+                        },
+                        {
+                            "kind": "Verbo",
+                            "word": "dobló"
+                        },
+                        {
+                            "kind": "Artículo",
+                            "word": "el"
+                        },
+                        {
+                            "kind": "Sustantivo",
+                            "word": "pantalón"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "limpio"
+                        },
+                        {
+                            "kind": "Conjunción",
+                            "word": "y"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "verde"
+                        }
+                    ]
+                },
+                {
+                    "id": 24,
+                    "demand": "Haz que Sofía doble el pantalón limpio y verde.",
+                    "gender": "F",
+                    "is_initial": false,
+                    "question": "¿Qué hizo Sofía?",
+                    "answer": [
+                        {
+                            "kind": "Pronombre",
+                            "word": "Ella"
+                        },
+                        {
+                            "kind": "Verbo",
+                            "word": "dobló"
+                        },
+                        {
+                            "kind": "Artículo",
+                            "word": "el"
+                        },
+                        {
+                            "kind": "Sustantivo",
+                            "word": "pantalón"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "limpio"
+                        },
+                        {
+                            "kind": "Conjunción",
+                            "word": "y"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "verde"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "action": "Lavar",
+            "cloth_animation": null,
+            "final_path": "/clothes/camisa_amarilla_colgar.png",
+            "next_action": "Colgar",
+            "path": "/clothes/camisa_amarilla_sucia.png",
+            "tag": "Camisa Amarilla Sucia",
+            "demands": [
+                {
+                    "id": 58,
+                    "demand": "Lava la camisa sucia y amarilla.",
+                    "gender": null,
+                    "is_initial": true,
+                    "question": "¿Qué hiciste?",
+                    "answer": [
+                        {
+                            "kind": "Pronombre",
+                            "word": "Yo"
+                        },
+                        {
+                            "kind": "Verbo",
+                            "word": "lavé"
+                        },
+                        {
+                            "kind": "Artículo",
+                            "word": "la"
+                        },
+                        {
+                            "kind": "Sustantivo",
+                            "word": "camisa"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "sucia"
+                        },
+                        {
+                            "kind": "Conjunción",
+                            "word": "y"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "amarilla"
+                        }
+                    ]
+                },
+                {
+                    "id": 59,
+                    "demand": "Haz que Felipe lave la camisa sucia y amarilla.",
+                    "gender": "M",
+                    "is_initial": false,
+                    "question": "¿Qué hizo Felipe?",
+                    "answer": [
+                        {
+                            "kind": "Pronombre",
+                            "word": "Él"
+                        },
+                        {
+                            "kind": "Verbo",
+                            "word": "lavó"
+                        },
+                        {
+                            "kind": "Artículo",
+                            "word": "la"
+                        },
+                        {
+                            "kind": "Sustantivo",
+                            "word": "camisa"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "sucia"
+                        },
+                        {
+                            "kind": "Conjunción",
+                            "word": "y"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "amarilla"
+                        }
+                    ]
+                },
+                {
+                    "id": 60,
+                    "demand": "Haz que Sofía lave la camisa sucia y amarilla.",
+                    "gender": "F",
+                    "is_initial": false,
+                    "question": "¿Qué hizo Sofía?",
+                    "answer": [
+                        {
+                            "kind": "Pronombre",
+                            "word": "Ella"
+                        },
+                        {
+                            "kind": "Verbo",
+                            "word": "lavó"
+                        },
+                        {
+                            "kind": "Artículo",
+                            "word": "la"
+                        },
+                        {
+                            "kind": "Sustantivo",
+                            "word": "camisa"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "sucia"
+                        },
+                        {
+                            "kind": "Conjunción",
+                            "word": "y"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "amarilla"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "action": "Lavar",
+            "cloth_animation": null,
+            "final_path": "/clothes/camisa_azul_colgar.png",
+            "next_action": "Colgar",
+            "path": "/clothes/camisa_azul_sucia.png",
+            "tag": "Camisa Azul Sucia",
+            "demands": [
+                {
+                    "id": 61,
+                    "demand": "Lava la camisa sucia y azul.",
+                    "gender": null,
+                    "is_initial": true,
+                    "question": "¿Qué hiciste?",
+                    "answer": [
+                        {
+                            "kind": "Pronombre",
+                            "word": "Yo"
+                        },
+                        {
+                            "kind": "Verbo",
+                            "word": "lavé"
+                        },
+                        {
+                            "kind": "Artículo",
+                            "word": "la"
+                        },
+                        {
+                            "kind": "Sustantivo",
+                            "word": "camisa"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "sucia"
+                        },
+                        {
+                            "kind": "Conjunción",
+                            "word": "y"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "azul"
+                        }
+                    ]
+                },
+                {
+                    "id": 62,
+                    "demand": "Haz que Felipe lave la camisa sucia y azul.",
+                    "gender": "M",
+                    "is_initial": false,
+                    "question": "¿Qué hizo Felipe?",
+                    "answer": [
+                        {
+                            "kind": "Pronombre",
+                            "word": "Él"
+                        },
+                        {
+                            "kind": "Verbo",
+                            "word": "lavó"
+                        },
+                        {
+                            "kind": "Artículo",
+                            "word": "la"
+                        },
+                        {
+                            "kind": "Sustantivo",
+                            "word": "camisa"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "sucia"
+                        },
+                        {
+                            "kind": "Conjunción",
+                            "word": "y"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "azul"
+                        }
+                    ]
+                },
+                {
+                    "id": 63,
+                    "demand": "Haz que Sofía lave la camisa sucia y azul.",
+                    "gender": "F",
+                    "is_initial": false,
+                    "question": "¿Qué hizo Sofía?",
+                    "answer": [
+                        {
+                            "kind": "Pronombre",
+                            "word": "Ella"
+                        },
+                        {
+                            "kind": "Verbo",
+                            "word": "lavó"
+                        },
+                        {
+                            "kind": "Artículo",
+                            "word": "la"
+                        },
+                        {
+                            "kind": "Sustantivo",
+                            "word": "camisa"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "sucia"
+                        },
+                        {
+                            "kind": "Conjunción",
+                            "word": "y"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "azul"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "action": "Lavar",
+            "cloth_animation": null,
+            "final_path": "/clothes/camisa_rayas_colgar.png",
+            "next_action": "Colgar",
+            "path": "/clothes/camisa_rayas_sucia.png",
+            "tag": "Camisa Rayas Sucia",
+            "demands": [
+                {
+                    "id": 64,
+                    "demand": "Lava la camisa sucia y de rayas.",
+                    "gender": null,
+                    "is_initial": true,
+                    "question": "¿Qué hiciste?",
+                    "answer": [
+                        {
+                            "kind": "Pronombre",
+                            "word": "Yo"
+                        },
+                        {
+                            "kind": "Verbo",
+                            "word": "lavé"
+                        },
+                        {
+                            "kind": "Artículo",
+                            "word": "la"
+                        },
+                        {
+                            "kind": "Sustantivo",
+                            "word": "camisa"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "sucia"
+                        },
+                        {
+                            "kind": "Conjunción",
+                            "word": "y"
+                        },
+                        {
+                            "kind": "Preposición",
+                            "word": "de"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "rayas"
+                        }
+                    ]
+                },
+                {
+                    "id": 65,
+                    "demand": "Haz que Felipe lave la camisa sucia y de rayas.",
+                    "gender": "M",
+                    "is_initial": false,
+                    "question": "¿Qué hizo Felipe?",
+                    "answer": [
+                        {
+                            "kind": "Pronombre",
+                            "word": "Él"
+                        },
+                        {
+                            "kind": "Verbo",
+                            "word": "lavó"
+                        },
+                        {
+                            "kind": "Artículo",
+                            "word": "la"
+                        },
+                        {
+                            "kind": "Sustantivo",
+                            "word": "camisa"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "sucia"
+                        },
+                        {
+                            "kind": "Conjunción",
+                            "word": "y"
+                        },
+                        {
+                            "kind": "Preposición",
+                            "word": "de"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "rayas"
+                        }
+                    ]
+                },
+                {
+                    "id": 66,
+                    "demand": "Haz que Sofía lave la camisa sucia y de rayas.",
+                    "gender": "F",
+                    "is_initial": false,
+                    "question": "¿Qué hizo Sofía?",
+                    "answer": [
+                        {
+                            "kind": "Pronombre",
+                            "word": "Ella"
+                        },
+                        {
+                            "kind": "Verbo",
+                            "word": "lavó"
+                        },
+                        {
+                            "kind": "Artículo",
+                            "word": "la"
+                        },
+                        {
+                            "kind": "Sustantivo",
+                            "word": "camisa"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "sucia"
+                        },
+                        {
+                            "kind": "Conjunción",
+                            "word": "y"
+                        },
+                        {
+                            "kind": "Preposición",
+                            "word": "de"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "rayas"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "action": "Lavar",
+            "cloth_animation": null,
+            "final_path": "/clothes/camisa_roja_colgar.png",
+            "next_action": "Colgar",
+            "path": "/clothes/camisa_roja_sucia.png",
+            "tag": "Camisa Roja Sucia",
+            "demands": [
+                {
+                    "id": 67,
+                    "demand": "Lava la camisa sucia y roja.",
+                    "gender": null,
+                    "is_initial": true,
+                    "question": "¿Qué hiciste?",
+                    "answer": [
+                        {
+                            "kind": "Pronombre",
+                            "word": "Yo"
+                        },
+                        {
+                            "kind": "Verbo",
+                            "word": "lavé"
+                        },
+                        {
+                            "kind": "Artículo",
+                            "word": "la"
+                        },
+                        {
+                            "kind": "Sustantivo",
+                            "word": "camisa"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "sucia"
+                        },
+                        {
+                            "kind": "Conjunción",
+                            "word": "y"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "roja"
+                        }
+                    ]
+                },
+                {
+                    "id": 68,
+                    "demand": "Haz que Felipe lave la camisa sucia y roja.",
+                    "gender": "M",
+                    "is_initial": false,
+                    "question": "¿Qué hizo Felipe?",
+                    "answer": [
+                        {
+                            "kind": "Pronombre",
+                            "word": "Él"
+                        },
+                        {
+                            "kind": "Verbo",
+                            "word": "lavó"
+                        },
+                        {
+                            "kind": "Artículo",
+                            "word": "la"
+                        },
+                        {
+                            "kind": "Sustantivo",
+                            "word": "camisa"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "sucia"
+                        },
+                        {
+                            "kind": "Conjunción",
+                            "word": "y"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "roja"
+                        }
+                    ]
+                },
+                {
+                    "id": 69,
+                    "demand": "Haz que Sofía lave la camisa sucia y roja.",
+                    "gender": "F",
+                    "is_initial": false,
+                    "question": "¿Qué hizo Sofía?",
+                    "answer": [
+                        {
+                            "kind": "Pronombre",
+                            "word": "Ella"
+                        },
+                        {
+                            "kind": "Verbo",
+                            "word": "lavó"
+                        },
+                        {
+                            "kind": "Artículo",
+                            "word": "la"
+                        },
+                        {
+                            "kind": "Sustantivo",
+                            "word": "camisa"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "sucia"
+                        },
+                        {
+                            "kind": "Conjunción",
+                            "word": "y"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "roja"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "action": "Lavar",
+            "cloth_animation": null,
+            "final_path": "/clothes/camisa_verde_colgar.png",
+            "next_action": "Colgar",
+            "path": "/clothes/camisa_verde_sucia.png",
+            "tag": "Camisa Verde Sucia",
+            "demands": [
+                {
+                    "id": 70,
+                    "demand": "Lava la camisa sucia y verde.",
+                    "gender": null,
+                    "is_initial": true,
+                    "question": "¿Qué hiciste?",
+                    "answer": [
+                        {
+                            "kind": "Pronombre",
+                            "word": "Yo"
+                        },
+                        {
+                            "kind": "Verbo",
+                            "word": "lavé"
+                        },
+                        {
+                            "kind": "Artículo",
+                            "word": "la"
+                        },
+                        {
+                            "kind": "Sustantivo",
+                            "word": "camisa"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "sucia"
+                        },
+                        {
+                            "kind": "Conjunción",
+                            "word": "y"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "verde"
+                        }
+                    ]
+                },
+                {
+                    "id": 71,
+                    "demand": "Haz que Felipe lave la camisa sucia y verde.",
+                    "gender": "M",
+                    "is_initial": false,
+                    "question": "¿Qué hizo Felipe?",
+                    "answer": [
+                        {
+                            "kind": "Pronombre",
+                            "word": "Él"
+                        },
+                        {
+                            "kind": "Verbo",
+                            "word": "lavó"
+                        },
+                        {
+                            "kind": "Artículo",
+                            "word": "la"
+                        },
+                        {
+                            "kind": "Sustantivo",
+                            "word": "camisa"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "sucia"
+                        },
+                        {
+                            "kind": "Conjunción",
+                            "word": "y"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "verde"
+                        }
+                    ]
+                },
+                {
+                    "id": 72,
+                    "demand": "Haz que Sofía lave la camisa sucia y verde.",
+                    "gender": "F",
+                    "is_initial": false,
+                    "question": "¿Qué hizo Sofía?",
+                    "answer": [
+                        {
+                            "kind": "Pronombre",
+                            "word": "Ella"
+                        },
+                        {
+                            "kind": "Verbo",
+                            "word": "lavó"
+                        },
+                        {
+                            "kind": "Artículo",
+                            "word": "la"
+                        },
+                        {
+                            "kind": "Sustantivo",
+                            "word": "camisa"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "sucia"
+                        },
+                        {
+                            "kind": "Conjunción",
+                            "word": "y"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "verde"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "action": "Lavar",
+            "cloth_animation": null,
+            "final_path": "/clothes/pantalon_azul_colgar.png",
+            "next_action": "Colgar",
+            "path": "/clothes/pantalon_azul_sucio.png",
+            "tag": "Pantalón Azul Sucio",
+            "demands": [
+                {
+                    "id": 73,
+                    "demand": "Lava el pantalón sucio y azul.",
+                    "gender": null,
+                    "is_initial": true,
+                    "question": "¿Qué hiciste?",
+                    "answer": [
+                        {
+                            "kind": "Pronombre",
+                            "word": "Yo"
+                        },
+                        {
+                            "kind": "Verbo",
+                            "word": "lavé"
+                        },
+                        {
+                            "kind": "Artículo",
+                            "word": "el"
+                        },
+                        {
+                            "kind": "Sustantivo",
+                            "word": "pantalón"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "sucio"
+                        },
+                        {
+                            "kind": "Conjunción",
+                            "word": "y"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "azul"
+                        }
+                    ]
+                },
+                {
+                    "id": 74,
+                    "demand": "Haz que Felipe lave el pantalón sucio y azul.",
+                    "gender": "M",
+                    "is_initial": false,
+                    "question": "¿Qué hizo Felipe?",
+                    "answer": [
+                        {
+                            "kind": "Pronombre",
+                            "word": "Él"
+                        },
+                        {
+                            "kind": "Verbo",
+                            "word": "lavó"
+                        },
+                        {
+                            "kind": "Artículo",
+                            "word": "el"
+                        },
+                        {
+                            "kind": "Sustantivo",
+                            "word": "pantalón"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "sucio"
+                        },
+                        {
+                            "kind": "Conjunción",
+                            "word": "y"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "azul"
+                        }
+                    ]
+                },
+                {
+                    "id": 75,
+                    "demand": "Haz que Sofía lave el pantalón sucio y azul.",
+                    "gender": "F",
+                    "is_initial": false,
+                    "question": "¿Qué hizo Sofía?",
+                    "answer": [
+                        {
+                            "kind": "Pronombre",
+                            "word": "Ella"
+                        },
+                        {
+                            "kind": "Verbo",
+                            "word": "lavó"
+                        },
+                        {
+                            "kind": "Artículo",
+                            "word": "el"
+                        },
+                        {
+                            "kind": "Sustantivo",
+                            "word": "pantalón"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "sucio"
+                        },
+                        {
+                            "kind": "Conjunción",
+                            "word": "y"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "azul"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "action": "Lavar",
+            "cloth_animation": null,
+            "final_path": "/clothes/pantalon_naranja_colgar.png",
+            "next_action": "Colgar",
+            "path": "/clothes/pantalon_naranja_sucio.png",
+            "tag": "Pantalón Naranja Sucio",
+            "demands": [
+                {
+                    "id": 76,
+                    "demand": "Lava el pantalón sucio y naranja.",
+                    "gender": null,
+                    "is_initial": true,
+                    "question": "¿Qué hiciste?",
+                    "answer": [
+                        {
+                            "kind": "Pronombre",
+                            "word": "Yo"
+                        },
+                        {
+                            "kind": "Verbo",
+                            "word": "lavé"
+                        },
+                        {
+                            "kind": "Artículo",
+                            "word": "el"
+                        },
+                        {
+                            "kind": "Sustantivo",
+                            "word": "pantalón"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "sucio"
+                        },
+                        {
+                            "kind": "Conjunción",
+                            "word": "y"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "naranja"
+                        }
+                    ]
+                },
+                {
+                    "id": 77,
+                    "demand": "Haz que Felipe lave el pantalón sucio y naranja.",
+                    "gender": "M",
+                    "is_initial": false,
+                    "question": "¿Qué hizo Felipe?",
+                    "answer": [
+                        {
+                            "kind": "Pronombre",
+                            "word": "Él"
+                        },
+                        {
+                            "kind": "Verbo",
+                            "word": "lavó"
+                        },
+                        {
+                            "kind": "Artículo",
+                            "word": "el"
+                        },
+                        {
+                            "kind": "Sustantivo",
+                            "word": "pantalón"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "sucio"
+                        },
+                        {
+                            "kind": "Conjunción",
+                            "word": "y"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "naranja"
+                        }
+                    ]
+                },
+                {
+                    "id": 78,
+                    "demand": "Haz que Sofía lave el pantalón sucio y naranja.",
+                    "gender": "F",
+                    "is_initial": false,
+                    "question": "¿Qué hizo Sofía?",
+                    "answer": [
+                        {
+                            "kind": "Pronombre",
+                            "word": "Ella"
+                        },
+                        {
+                            "kind": "Verbo",
+                            "word": "lavó"
+                        },
+                        {
+                            "kind": "Artículo",
+                            "word": "el"
+                        },
+                        {
+                            "kind": "Sustantivo",
+                            "word": "pantalón"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "sucio"
+                        },
+                        {
+                            "kind": "Conjunción",
+                            "word": "y"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "naranja"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "action": "Lavar",
+            "cloth_animation": null,
+            "final_path": "/clothes/pantalon_verde_colgar.png",
+            "next_action": "Colgar",
+            "path": "/clothes/pantalon_verde_sucio.png",
+            "tag": "Pantalón Verde Sucio",
+            "demands": [
+                {
+                    "id": 79,
+                    "demand": "Lava el pantalón sucio y verde.",
+                    "gender": null,
+                    "is_initial": true,
+                    "question": "¿Qué hiciste?",
+                    "answer": [
+                        {
+                            "kind": "Pronombre",
+                            "word": "Yo"
+                        },
+                        {
+                            "kind": "Verbo",
+                            "word": "lavé"
+                        },
+                        {
+                            "kind": "Artículo",
+                            "word": "el"
+                        },
+                        {
+                            "kind": "Sustantivo",
+                            "word": "pantalón"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "sucio"
+                        },
+                        {
+                            "kind": "Conjunción",
+                            "word": "y"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "verde"
+                        }
+                    ]
+                },
+                {
+                    "id": 80,
+                    "demand": "Haz que Felipe lave el pantalón sucio y verde.",
+                    "gender": "M",
+                    "is_initial": false,
+                    "question": "¿Qué hizo Felipe?",
+                    "answer": [
+                        {
+                            "kind": "Pronombre",
+                            "word": "Él"
+                        },
+                        {
+                            "kind": "Verbo",
+                            "word": "lavó"
+                        },
+                        {
+                            "kind": "Artículo",
+                            "word": "el"
+                        },
+                        {
+                            "kind": "Sustantivo",
+                            "word": "pantalón"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "sucio"
+                        },
+                        {
+                            "kind": "Conjunción",
+                            "word": "y"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "verde"
+                        }
+                    ]
+                },
+                {
+                    "id": 81,
+                    "demand": "Haz que Sofía lave el pantalón sucio y verde.",
+                    "gender": "F",
+                    "is_initial": false,
+                    "question": "¿Qué hizo Sofía?",
+                    "answer": [
+                        {
+                            "kind": "Pronombre",
+                            "word": "Ella"
+                        },
+                        {
+                            "kind": "Verbo",
+                            "word": "lavó"
+                        },
+                        {
+                            "kind": "Artículo",
+                            "word": "el"
+                        },
+                        {
+                            "kind": "Sustantivo",
+                            "word": "pantalón"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "sucio"
+                        },
+                        {
+                            "kind": "Conjunción",
+                            "word": "y"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "verde"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "action": "Limpiar",
+            "cloth_animation": "/clothes/zapatos_azules_limpiar.gif",
+            "final_path": null,
+            "next_action": "Guardar",
+            "path": "/clothes/zapatos_azules_sucios.png",
+            "tag": "Zapatos Azules Sucios",
+            "demands": [
+                {
+                    "id": 82,
+                    "demand": "Limpia los zapatos sucios y azules.",
+                    "gender": null,
+                    "is_initial": true,
+                    "question": "¿Qué hiciste?",
+                    "answer": [
+                        {
+                            "kind": "Pronombre",
+                            "word": "Yo"
+                        },
+                        {
+                            "kind": "Verbo",
+                            "word": "limpié"
+                        },
+                        {
+                            "kind": "Artículo",
+                            "word": "los"
+                        },
+                        {
+                            "kind": "Sustantivo",
+                            "word": "zapatos"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "sucios"
+                        },
+                        {
+                            "kind": "Conjunción",
+                            "word": "y"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "azules"
+                        }
+                    ]
+                },
+                {
+                    "id": 83,
+                    "demand": "Haz que Felipe limpie los zapatos sucios y azules.",
+                    "gender": "M",
+                    "is_initial": false,
+                    "question": "¿Qué hizo Felipe?",
+                    "answer": [
+                        {
+                            "kind": "Pronombre",
+                            "word": "Él"
+                        },
+                        {
+                            "kind": "Verbo",
+                            "word": "limpió"
+                        },
+                        {
+                            "kind": "Artículo",
+                            "word": "los"
+                        },
+                        {
+                            "kind": "Sustantivo",
+                            "word": "zapatos"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "sucios"
+                        },
+                        {
+                            "kind": "Conjunción",
+                            "word": "y"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "azules"
+                        }
+                    ]
+                },
+                {
+                    "id": 84,
+                    "demand": "Haz que Sofía limpie los zapatos sucios y azules.",
+                    "gender": "F",
+                    "is_initial": false,
+                    "question": "¿Qué hizo Sofía?",
+                    "answer": [
+                        {
+                            "kind": "Pronombre",
+                            "word": "Ella"
+                        },
+                        {
+                            "kind": "Verbo",
+                            "word": "limpió"
+                        },
+                        {
+                            "kind": "Artículo",
+                            "word": "los"
+                        },
+                        {
+                            "kind": "Sustantivo",
+                            "word": "zapatos"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "sucios"
+                        },
+                        {
+                            "kind": "Conjunción",
+                            "word": "y"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "azules"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "action": "Limpiar",
+            "cloth_animation": "/clothes/zapatos_blancos_limpiar.gif",
+            "final_path": null,
+            "next_action": "Guardar",
+            "path": "/clothes/zapatos_blancos_sucios.png",
+            "tag": "Zapatos Blancos Sucios",
+            "demands": [
+                {
+                    "id": 85,
+                    "demand": "Limpia los zapatos sucios y blancos.",
+                    "gender": null,
+                    "is_initial": true,
+                    "question": "¿Qué hiciste?",
+                    "answer": [
+                        {
+                            "kind": "Pronombre",
+                            "word": "Yo"
+                        },
+                        {
+                            "kind": "Verbo",
+                            "word": "limpié"
+                        },
+                        {
+                            "kind": "Artículo",
+                            "word": "los"
+                        },
+                        {
+                            "kind": "Sustantivo",
+                            "word": "zapatos"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "sucios"
+                        },
+                        {
+                            "kind": "Conjunción",
+                            "word": "y"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "blancos"
+                        }
+                    ]
+                },
+                {
+                    "id": 86,
+                    "demand": "Haz que Felipe limpie los zapatos sucios y blancos.",
+                    "gender": "M",
+                    "is_initial": false,
+                    "question": "¿Qué hizo Felipe?",
+                    "answer": [
+                        {
+                            "kind": "Pronombre",
+                            "word": "Él"
+                        },
+                        {
+                            "kind": "Verbo",
+                            "word": "limpió"
+                        },
+                        {
+                            "kind": "Artículo",
+                            "word": "los"
+                        },
+                        {
+                            "kind": "Sustantivo",
+                            "word": "zapatos"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "sucios"
+                        },
+                        {
+                            "kind": "Conjunción",
+                            "word": "y"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "blancos"
+                        }
+                    ]
+                },
+                {
+                    "id": 87,
+                    "demand": "Haz que Sofía limpie los zapatos sucios y blancos.",
+                    "gender": "F",
+                    "is_initial": false,
+                    "question": "¿Qué hizo Sofía?",
+                    "answer": [
+                        {
+                            "kind": "Pronombre",
+                            "word": "Ella"
+                        },
+                        {
+                            "kind": "Verbo",
+                            "word": "limpió"
+                        },
+                        {
+                            "kind": "Artículo",
+                            "word": "los"
+                        },
+                        {
+                            "kind": "Sustantivo",
+                            "word": "zapatos"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "sucios"
+                        },
+                        {
+                            "kind": "Conjunción",
+                            "word": "y"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "blancos"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "action": "Limpiar",
+            "cloth_animation": "/clothes/zapatos_cafes_limpiar.gif",
+            "final_path": null,
+            "next_action": "Guardar",
+            "path": "/clothes/zapatos_cafes_sucios.png",
+            "tag": "Zapatos Cafés Sucios",
+            "demands": [
+                {
+                    "id": 88,
+                    "demand": "Limpia los zapatos sucios y cafés.",
+                    "gender": null,
+                    "is_initial": true,
+                    "question": "¿Qué hiciste?",
+                    "answer": [
+                        {
+                            "kind": "Pronombre",
+                            "word": "Yo"
+                        },
+                        {
+                            "kind": "Verbo",
+                            "word": "limpié"
+                        },
+                        {
+                            "kind": "Artículo",
+                            "word": "los"
+                        },
+                        {
+                            "kind": "Sustantivo",
+                            "word": "zapatos"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "sucios"
+                        },
+                        {
+                            "kind": "Conjunción",
+                            "word": "y"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "cafes"
+                        }
+                    ]
+                },
+                {
+                    "id": 89,
+                    "demand": "Haz que Felipe limpie los zapatos sucios y cafés.",
+                    "gender": "M",
+                    "is_initial": false,
+                    "question": "¿Qué hizo Felipe?",
+                    "answer": [
+                        {
+                            "kind": "Pronombre",
+                            "word": "Él"
+                        },
+                        {
+                            "kind": "Verbo",
+                            "word": "limpió"
+                        },
+                        {
+                            "kind": "Artículo",
+                            "word": "los"
+                        },
+                        {
+                            "kind": "Sustantivo",
+                            "word": "zapatos"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "sucios"
+                        },
+                        {
+                            "kind": "Conjunción",
+                            "word": "y"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "cafés"
+                        }
+                    ]
+                },
+                {
+                    "id": 90,
+                    "demand": "Haz que Sofía limpie los zapatos sucios y cafés.",
+                    "gender": "F",
+                    "is_initial": false,
+                    "question": "¿Qué hizo Sofía?",
+                    "answer": [
+                        {
+                            "kind": "Pronombre",
+                            "word": "Ella"
+                        },
+                        {
+                            "kind": "Verbo",
+                            "word": "limpió"
+                        },
+                        {
+                            "kind": "Artículo",
+                            "word": "los"
+                        },
+                        {
+                            "kind": "Sustantivo",
+                            "word": "zapatos"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "sucios"
+                        },
+                        {
+                            "kind": "Conjunción",
+                            "word": "y"
+                        },
+                        {
+                            "kind": "Adjetivo",
+                            "word": "cafés"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "user": {
+        "id": "1144034673",
+        "active": true,
+        "birthday_date": "1990-05-04T00:00:00.000Z",
+        "color": "#A569BD",
+        "email": "martinsg.9054@gmail.com",
+        "gender": "M",
+        "is_admin": false,
+        "last_name": "Sierra",
+        "name": "Martín",
+        "profile_img": null,
+        "score": 0,
+        "thumbnail_alias": "MS",
+        "username": "mvsierra",
+        "Role": {
+            "id": 1,
+            "name": "paciente"
+        },
+        "Avatar_Variation": null,
+        "Therapists": {
+            "1145035688": {
+                "id": "1145035688",
+                "Avatar_Variation": {
+                    "id": 1,
+                    "eye": "{\"colors\":\"Café\"}",
+                    "hair": "{\"colors\":\"Negro\"}",
+                    "torso": "{\"colors\":\"Azul\"}",
+                    "img_path": "/images/avatar/am1_cafe_negro_azul.png",
+                    "thumbnail_path": "",
+                    "id_avatar": 1
+                }
+            }
+        }
+    },
+    "variability": {
+        "cardFactoryStrategy": "SimpleCardFactoryStrategy",
+        "sceneTemplate": "GameSceneOrdenandoCuarto"
+    }
+}

@@ -1,0 +1,28 @@
+.container {
+    flex-direction: column;
+    width: 100%;
+}
+
+.email {
+    margin-top: 7px;
+}
+
+.image {
+    border-radius: 50%;
+    height: 70px;
+    object-fit: cover;
+    width: 70px;
+}
+
+.name {
+    font-size: large;
+    font-weight: 600;
+    margin-top: 10px;
+}
+
+.thumb {
+    color: var(--white);
+    font-size: x-large;
+    font-weight: 600;
+    justify-content: center;
+}

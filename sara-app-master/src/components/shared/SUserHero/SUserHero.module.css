@@ -1,0 +1,73 @@
+.alias {
+    border: 5px solid var(--white);
+    border-radius: 50%;
+    color: var(--white);
+    font-size: xx-large;
+    font-weight: 600;
+    height: 120px;
+    justify-content: center;
+    width: 120px;
+}
+
+.col {
+    justify-content: flex-start;
+}
+
+.container {
+    height: 210px;
+    position: relative;
+    width: 100%;
+}
+
+.header {
+    background-color: var(--lightgray);
+    position: absolute;
+    height: 165px;
+    width: 100%;
+}
+
+.row {
+    width: 100%;
+}
+
+.userContainer {
+    bottom: 0px;
+    height: 120px;
+    justify-content: center;
+    padding: 0px 20px;
+    position: absolute;
+    width: 100%;
+}
+
+.uimage {
+    border: 5px solid var(--white);
+    border-radius: 50%;
+    height: 120px;
+    object-fit: cover;
+    width: 120px;
+}
+
+.uname {
+    color: var(--gray);
+    font-size: x-large;
+    font-weight: 600;
+    margin: 0px 0px 10px 7px;
+}
+
+@media (max-width: 767px) {
+    .userContainer {
+        padding: 0px 11px;
+        width: 100%;
+    }
+
+    .uimage {
+        height: 100px;
+        width: 100px;
+    }
+}
+
+@media (min-width: 1370px) {
+    .row {
+        width: 1460px;
+    }
+}

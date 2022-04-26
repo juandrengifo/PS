@@ -1,0 +1,430 @@
+{
+    "cards": [
+        {
+            "demands": [
+                {
+                    "id_demand": 101,
+                    "demand": "¿Quiénes son ellos?",
+                    "answers": [
+                        {
+                            "kind": "artículo",
+                            "word": "La",
+                            "tag": 1
+                        },
+                        {
+                            "kind": "sustantivo",
+                            "word": "mamá",
+                            "tag": 2
+                        },
+                        {
+                            "kind": "conjunción",
+                            "word": "y",
+                            "tag": 3
+                        },
+                        {
+                            "kind": "artículo",
+                            "word": "el",
+                            "tag": 4
+                        },
+                        {
+                            "kind": "sustantivo",
+                            "word": "niño",
+                            "tag": 5
+                        }
+                    ]
+                },
+                {
+                    "id_demand": 102,
+                    "demand": "¿Dónde están ellos?",
+                    "answers": [
+                        {
+                            "kind": "pronombre",
+                            "word": "Ellos",
+                            "tag": 1
+                        },
+                        {
+                            "kind": "verbo",
+                            "word": "están",
+                            "tag": 2
+                        },
+                        {
+                            "kind": "preposición",
+                            "word": "en",
+                            "tag": 3
+                        },
+                        {
+                            "kind": "artículo",
+                            "word": "el",
+                            "tag": 4
+                        },
+                        {
+                            "kind": "adverbio",
+                            "word": "baño",
+                            "tag": 5
+                        }
+                    ]
+                },
+                {
+                    "id_demand": 103,
+                    "demand": "¿Cómo está el niño?",
+                    "answers": [
+                        {
+                            "kind": "artículo",
+                            "word": "El",
+                            "tag": 1
+                        },
+                        {
+                            "kind": "sustantivo",
+                            "word": "niño",
+                            "tag": 2
+                        },
+                        {
+                            "kind": "verbo",
+                            "word": "está",
+                            "tag": 3
+                        },
+                        {
+                            "kind": "adjetivo",
+                            "word": "feliz",
+                            "tag": 4
+                        }
+                    ]
+                }
+            ],
+            "id_image": 327,
+            "kind": 1,
+            "path": "/secuences/s_bebe_1.png",
+            "pictogram": {
+                "id": 2,
+                "path": "/pictograms/banera.png"
+            },
+            "tag": 2
+        },
+        {
+            "demands": [
+                {
+                    "id_demand": 104,
+                    "demand": "¿Qué hace la mamá?",
+                    "answers": [
+                        {
+                            "kind": "artículo",
+                            "word": "La",
+                            "tag": 1
+                        },
+                        {
+                            "kind": "sustantivo",
+                            "word": "mamá",
+                            "tag": 2
+                        },
+                        {
+                            "kind": "verbo",
+                            "word": "está",
+                            "tag": 3
+                        },
+                        {
+                            "kind": "gerundio",
+                            "word": "bañando",
+                            "tag": 4
+                        },
+                        {
+                            "kind": "preposición",
+                            "word": "al",
+                            "tag": 5
+                        },
+                        {
+                            "kind": "sustantivo",
+                            "word": "niño",
+                            "tag": 6
+                        }
+                    ]
+                },
+                {
+                    "id_demand": 106,
+                    "demand": "¿Dónde está el niño?",
+                    "answers": [
+                        {
+                            "kind": "artículo",
+                            "word": "El",
+                            "tag": 1
+                        },
+                        {
+                            "kind": "sustantivo",
+                            "word": "niño",
+                            "tag": 2
+                        },
+                        {
+                            "kind": "verbo",
+                            "word": "está",
+                            "tag": 3
+                        },
+                        {
+                            "kind": "preposición",
+                            "word": "en",
+                            "tag": 4
+                        },
+                        {
+                            "kind": "artículo",
+                            "word": "la",
+                            "tag": 5
+                        },
+                        {
+                            "kind": "adverbio",
+                            "word": "bañera",
+                            "tag": 6
+                        }
+                    ]
+                }
+            ],
+            "id_image": 328,
+            "kind": 1,
+            "path": "/secuences/s_bebe_2.png", 
+            "pictogram": {
+                "id": 3,
+                "path": "/pictograms/jabon.png"
+            },
+            "tag": 3
+        },
+        {
+            "demands": [
+                {
+                    "id_demand": 107,
+                    "demand": "¿Qué hace la mamá?",
+                    "answers": [
+                        {
+                            "kind": "artículo",
+                            "word": "La",
+                            "tag": 1
+                        },
+                        {
+                            "kind": "sustantivo",
+                            "word": "mamá",
+                            "tag": 2
+                        },
+                        {
+                            "kind": "verbo",
+                            "word": "seca",
+                            "tag": 3
+                        },
+                        {
+                            "kind": "preposición",
+                            "word": "al",
+                            "tag": 4
+                        },
+                        {
+                            "kind": "sustantivo",
+                            "word": "niño",
+                            "tag": 5
+                        }
+                    ]
+                },
+                {
+                    "id_demand": 108,
+                    "demand": "¿Cómo está el niño?",
+                    "answers": [
+                        {
+                            "kind": "artículo",
+                            "word": "El",
+                            "tag": 1
+                        },
+                        {
+                            "kind": "sustantivo",
+                            "word": "niño",
+                            "tag": 2
+                        },
+                        {
+                            "kind": "verbo",
+                            "word": "está",
+                            "tag": 3
+                        },
+                        {
+                            "kind": "adjetivo",
+                            "word": "limpio",
+                            "tag": 4
+                        }
+                    ]
+                }
+            ],
+            "id_image": 329,
+            "kind": 1,
+            "path": "/secuences/s_bebe_3.png",
+            "pictogram": {
+                "id": 4,
+                "path": "/pictograms/toalla_seca.png"
+            },
+            "tag": 4
+        },
+        {
+            "demands": [
+                {
+                    "id_demand": 109,
+                    "demand": "¿Cómo está el niño?",
+                    "answers": [
+                        {
+                            "kind": "artículo",
+                            "word": "El",
+                            "tag": 1
+                        },
+                        {
+                            "kind": "sustantivo",
+                            "word": "niño",
+                            "tag": 2
+                        },
+                        {
+                            "kind": "verbo",
+                            "word": "está",
+                            "tag": 3
+                        },
+                        {
+                            "kind": "adjetivo",
+                            "word": "feliz",
+                            "tag": 4
+                        }
+                    ]
+                },
+                {
+                    "id_demand": 110,
+                    "demand": "¿Qué le pone la mamá al niño?",
+                    "answers": [
+                        {
+                            "kind": "artículo",
+                            "word": "La",
+                            "tag": 1
+                        },
+                        {
+                            "kind": "sustantivo",
+                            "word": "mamá",
+                            "tag": 2
+                        },
+                        {
+                            "kind": "pronominal",
+                            "word": "le",
+                            "tag": 3
+                        },
+                        {
+                            "kind": "verbo",
+                            "word": "pone",
+                            "tag": 4
+                        },
+                        {
+                            "kind": "artículo",
+                            "word": "un",
+                            "tag": 5
+                        },
+                        {
+                            "kind": "sustantivo",
+                            "word": "saco",
+                            "tag": 6
+                        },
+                        {
+                            "kind": "preposición",
+                            "word": "al",
+                            "tag": 7
+                        },
+                        {
+                            "kind": "sustantivo",
+                            "word": "niño",
+                            "tag": 8
+                        }
+                    ]
+                },
+                {
+                    "id_demand": 111,
+                    "demand": "¿De qué color es el saco del niño?",
+                    "answers": [
+                        {
+                            "kind": "artículo",
+                            "word": "El",
+                            "tag": 1
+                        },
+                        {
+                            "kind": "sustantivo",
+                            "word": "niño",
+                            "tag": 2
+                        },
+                        {
+                            "kind": "verbo",
+                            "word": "tiene",
+                            "tag": 3
+                        },
+                        {
+                            "kind": "artículo",
+                            "word": "un",
+                            "tag": 4
+                        },
+                        {
+                            "kind": "sustantivo",
+                            "word": "saco",
+                            "tag": 5
+                        },
+                        {
+                            "kind": "adjetivo",
+                            "word": "azul",
+                            "tag": 6
+                        }
+                    ]
+                }
+            ],
+            "id_image": 330,
+            "kind": 1,
+            "path": "/secuences/s_bebe_4.png", 
+            "pictogram": {
+                "id": 5,
+                "path": "/pictograms/ropa.png"
+            },
+            "tag": 5
+        }
+    ],
+    "cronoCards": [
+        {
+            "demands": [],
+            "id": 326,
+            "path": "",
+            "pictogram": {
+                "id": 1,
+                "path": "/pictograms/panal_sucio.png"
+            },
+            "tag": 1
+        },
+        {
+            "demans": [],
+            "id": 331,
+            "path": "",
+            "pictogram": {
+                "id": 6,
+                "path": "/pictograms/coche.png"
+            },
+            "tag": 6
+        }
+    ],
+    "user": {
+        "id": "1144034673",
+        "active": true,
+        "color": "#BD6776",
+        "email": "martinsg.9054@gmail.com",
+        "gender": "M",
+        "is_admin": false,
+        "last_name": "Sierra",
+        "name": "Martín",
+        "profile_img": null,
+        "score": 0,
+        "thumbnail_alias": "MS",
+        "username": "mvsierra",
+        "Role": {
+            "id": 1,
+            "name": "paciente"
+        },
+        "Avatar_Variation": null
+    },
+    "reader": {
+        "id": 2,
+        "value": false
+    },
+    "time": {
+        "description": "Presente",
+        "id": 2
+    },
+    "variability": {
+        "cardFactoryStrategy": "SimpleCardFactoryStrategy",
+        "sceneTemplate": "GameSceneSecuencia"
+    }
+}
